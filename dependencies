@@ -1,0 +1,2 @@
+npx install @react-navigation/drawer
+npx install @react-navigation/native
